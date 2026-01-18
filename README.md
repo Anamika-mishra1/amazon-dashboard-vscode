@@ -1,0 +1,14 @@
+# 🛒 Amazon Sales Analytics Dashboard
+
+**LIVE DEMO:** [Add Render URL after deployment]
+
+![Dashboard Screenshot](dashboard1.png)
+!(dashboard2.png)
+
+Interactive **Streamlit** dashboard analyzing Amazon laptop prices with:
+- 📊 Real-time price metrics
+- 📈 Interactive Plotly charts
+- 🏷️ Price range analysis
+- 🔍 Top products table
+
+## ✨ **Tech Stack**
