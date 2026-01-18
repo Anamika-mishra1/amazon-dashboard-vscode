@@ -1,6 +1,6 @@
 # 🛒 Amazon Sales Analytics Dashboard
 
-**LIVE DEMO:** [Add Render URL after deployment]
+**LIVE DEMO:** [https://amazondashboardvs.streamlit.app/]
 
 ![Dashboard Screenshot](Dashboard1.png)
 
