@@ -2,8 +2,7 @@
 
 **LIVE DEMO:** [Add Render URL after deployment]
 
-![Dashboard Screenshot](dashboard1.png)
-!(dashboard2.png)
+![Dashboard Screenshot](Dashboard1.png)
 
 Interactive **Streamlit** dashboard analyzing Amazon laptop prices with:
 - 📊 Real-time price metrics
